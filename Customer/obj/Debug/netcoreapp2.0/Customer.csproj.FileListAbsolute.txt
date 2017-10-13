@@ -1,0 +1,40 @@
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\obj\Debug\netcoreapp2.0\Customer.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Customer.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.dev.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Customer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Customer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\obj\Debug\netcoreapp2.0\Customer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Customer\obj\Debug\netcoreapp2.0\Customer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.dev.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.csprojResolveAssemblyReference.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.deps.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.dev.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Customer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfoInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfo.cs
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\obj\Debug\netcoreapp2.0\Customer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\MessagingGateway.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Customer\bin\Debug\netcoreapp2.0\MessagingGateway.pdb

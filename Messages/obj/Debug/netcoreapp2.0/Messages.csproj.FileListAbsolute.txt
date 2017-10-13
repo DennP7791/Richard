@@ -1,0 +1,27 @@
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.csprojResolveAssemblyReference.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Messages\obj\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.csprojResolveAssemblyReference.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Messages\obj\Debug\netcoreapp2.0\Messages.pdb

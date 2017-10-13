@@ -1,0 +1,41 @@
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Retailer.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.dev.json
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Retailer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Retailer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.csprojResolveAssemblyReference.cache
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2\Retailer\obj\Debug\netcoreapp2.0\Retailer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.deps.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.dev.json
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.csprojResolveAssemblyReference.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.csproj.CoreCompileInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfoInputs.cache
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfo.cs
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.dll
+C:\Systemintegration\Solutions\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.deps.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.runtimeconfig.dev.json
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Retailer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfoInputs.cache
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.AssemblyInfo.cs
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\obj\Debug\netcoreapp2.0\Retailer.pdb
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\ContentEnricher.dll
+C:\Users\Dennis\Desktop\Software Developer\System Integration\Project Examples\MiniProjectPart2_Simple\Retailer\bin\Debug\netcoreapp2.0\ContentEnricher.pdb
